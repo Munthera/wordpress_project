@@ -1,0 +1,6 @@
+2023-10-29T23:19:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\word\wp-includes\functions.php on line 4570
+
+2023-10-29T23:19:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\word\wp-content\plugins\woocommerce\src\Admin\Features\Features.php on line 117
+
+2023-10-29T23:19:15+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\word\wp-content\plugins\woocommerce\includes\tracks\events\class-wc-products-tracking.php on line 13
+
